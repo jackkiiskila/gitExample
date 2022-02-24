@@ -1,2 +1,3 @@
-boss,NetID,LastName,FirstName
+Role,NetID,LastName,FirstName
+boss,jackkiiskila,Kiiskila,Jack
 employee, ough, Ough, Celina
